@@ -3,7 +3,24 @@
   
   
   
-
+{"number":"1","name":"هنا امدرمان","description":"","logo":"/umdorman.png","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"1"},    
+{"number":"2","name":"الرياضية FM 104","description":"","logo":"/SportFM104.png","streamUrl":"http://87.98.130.255:8397","yourmuzeId":"0","state":"1"},    
+{"number":"3","name":"اذاعة البصيرة","description":"","logo":"r01.png","streamUrl":"http://radio12.tarat.com:9320/;stream/1","yourmuzeId":"0","state":"2"},    
+{"number":"4","name":"اذاعة الشباب والرياضة","description":"","logo":"/اذاعة الشباب والرياضة.JPG","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"1"},   
+{"number":"5","name":"اذاعة كسلا","description":"","logo":"/اذاعة كسلا.jpg","streamUrl":"http://87.98.130.255:8489/stream","yourmuzeId":"0","state":"1"},  
+{"number":"6","name":"راديو الصفا بث تجريبي","description":"","logo":"/راديو الصفا بث تجريبي.jpg","streamUrl":"http://87.98.130.255:8397/stream","yourmuzeId":"0","state":"1"},  
+{"number":"7","name":"اذاعة ذاكرة الامة","description":"","logo":"/اذاعة ذاكرة الامة.jpg","streamUrl":"http://87.98.130.255:8676/stream","yourmuzeId":"0","state":"1"},  
+{"number":"8","name":"راديو المهندس صلاح","description":"","logo":"/راديو المهندس صلاح.png","streamUrl":"http://87.98.130.255:8696/stream","yourmuzeId":"0","state":"1"},  
+{"number":"9","name":"راديو المستقبل","description":"","logo":"/radio%20el%20mosta9bal.jpg","streamUrl":"http://stream.zenolive.com/vszwkcv71ueuv","yourmuzeId":"0","state":"1"}, 
+{"number":"10","name":"راديو بلدنا","description":"","logo":"/baladna%20radio.png","streamUrl":"http://stream.zenolive.com/mzb0syy61ueuv","yourmuzeId":"0","state":"1"}, 
+{"number":"11","name":"الزاوية التجانية","description":"","logo":"/zawia%20tijania.png","streamUrl":"http://tijaniyyah.asuscomm.com:8000/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"12","name":"السيادة","description":"","logo":"/siada.png","streamUrl":"http://tijaniyyah.asuscomm.com:8000/stream/6/","yourmuzeId":"0","state":"0"}, 
+{"number":"13","name":"راديو طرب بث تجريبي","description":"","logo":"/radio%20tarab.jpg","streamUrl":"http://radio6.citrus3.com:8560/stream","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"راديو حواس","description":"","logo":"/hawas%20fm%20Channel.png","streamUrl":"http://freeuk3.listen2myradio.com/records/radiouser2952603/record.mp3","yourmuzeId":"0","state":"0"},
+{"number":"15","name":"راديو دبنقا","description":"","logo":"/Radio%20Dabanga%20Darfur.jpg","streamUrl":"http://stream02.itego.nl/dabanga","yourmuzeId":"0","state":"1"}, 
+{"number":"17","name":"اذاعة هوى السودانFM 88.3","description":"","logo":"/hawa sudan.jpg","streamUrl":"http://87.98.130.255:8385/stream","yourmuzeId":"0","state":"1"}, 
+{"number":"18","name":"اذاعة كوش","description":"","logo":"/اذاعة كوش.png","streamUrl":"http://freeuk7.listen2myradio.com:22990/;stream/1","yourmuzeId":"0","state":"1"}, 
+{"number":"19","name":"إذاعة دراما","description":"","logo":"/إذاعة دراما الراديو.png","streamUrl":"http://87.98.130.255:8436","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"اذاعة الخرطوم FM107","description":"","logo":"/khartom.jpg","streamUrl":"http://87.98.130.255:8781/stream","yourmuzeId":"0","state":"1"},  
  {"number":"21","name":"البيت السوداني","description":"","logo":"/FM100white.png","streamUrl":"http://87.98.130.255:8680/stream","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"هنا ود مدني","description":"","logo":"/wadmadany.jpg","streamUrl":"http://5.39.71.159:8275/1","yourmuzeId":"0","state":"0"},
