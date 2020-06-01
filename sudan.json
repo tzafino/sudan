@@ -59,15 +59,7 @@
 {"number":"54","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"},
 {"number":"55","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
 {"number":"56","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
-{"number":"57","name":"البرنامج العام","description":"","logo":"/mrnamaghaam.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"58","name":"الشرق الاوسط","description":"","logo":"/sharqawsat.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"59","name":"الشباب والرياضة","description":"","logo":"/shababwariyada.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"60","name":"صوت العرب","description":"","logo":"/sawt-alarab.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/SootArab/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"61","name":"اذاعة الاغاني","description":"","logo":"/radioaghani.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Aghany/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"62","name":"البرنامج الموسيقي","description":"","logo":"/music-prog-live.png","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElMouusekey/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"63","name":"البرنامج الثقافي","description":"","logo":"/ERTU.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ThakafayProg/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"64","name":"البرنامج الاوروبي","description":"","logo":"/ouropie-prog-live.png","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-  
+
   
 
 {"number":"339","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
