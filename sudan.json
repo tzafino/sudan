@@ -26,13 +26,13 @@
  {"number":"21","name":"البيت السوداني","description":"","logo":"/FM100white.png","streamUrl":"http://87.98.130.255:8680/stream","yourmuzeId":"0","state":"2"},
 {"number":"22","name":"هنا ود مدني","description":"","logo":"/wadmadany.jpg","streamUrl":"http://5.39.71.159:8275/1","yourmuzeId":"0","state":"0"},
 {"number":"23","name":"حقيبة الفن","description":"","logo":"/haqiba.jpg","streamUrl":"http://87.98.130.255:8369/stream","yourmuzeId":"0","state":"1"},
-{"number":"24","name":"برنامج سهر القوافي","description":"","logo":"/saharquafy.jpg","streamUrl":"http://87.98.130.255:8571/stream","yourmuzeId":"0","state":"2"},
+{"number":"24","name":"برنامج سهر القوافي","description":"","logo":"/saharquafy.jpg","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"2"},
 {"number":"25","name":"راديو القوافي والنغم","description":"","logo":"/quafiradioadil.jpg","streamUrl":"http://87.98.130.255:8637/stream","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"راديو الوطنية بث تجريبي","description":"","logo":"/watanya.jpeg","streamUrl":"http://87.98.130.255:8682/stream","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"راديو كادقلي بث تجريبي","description":"","logo":"/kadugly.png","streamUrl":"http://87.98.130.255:8672/stream","yourmuzeId":"0","state":"1"},
-{"number":"28","name":"اذاعة جامعة السودان العالمية","description":"","logo":"/siu2.jpeg","streamUrl":"http://176.31.107.8:8932","yourmuzeId":"0","state":"0"},
+{"number":"28","name":"اذاعة جامعة السودان العالمية","description":"","logo":"/siu2.jpeg","streamUrl":"http://87.98.130.255:8690/stream","yourmuzeId":"0","state":"0"},
 {"number":"29","name":"راديو ديشاك","description":"","logo":"/deeshakradio.png","streamUrl":"http://198.105.216.204:8230","yourmuzeId":"0","state":"1"},
-{"number":"30","name":"راديو الرابعة","description":"","logo":"/Rabaa.jpeg","streamUrl":"https://streams.radio.co/s909325731/listen","yourmuzeId":"0","state":"0"},
+{"number":"30","name":"راديو الرابعة","description":"","logo":"/Rabaa.jpeg","streamUrl":"https://streams.radio.co/s909325731/listen","yourmuzeId":"0","state":"1"},
 {"number":"31","name":"راديو هلا","description":"","logo":"/hala96.jpg","streamUrl":"http://108.61.34.50:7026/stream","yourmuzeId":"0","state":"1"},
 {"number":"32","name":"اذاعة كوستي","description":"","logo":"/Kausty.jpg","streamUrl":"http://178.32.62.163:9630/stream.mp3","yourmuzeId":"0","state":"0"},
 {"number":"33","name":"راديو بلادي FM 96.6","description":"","logo":"/belady2.jpg","streamUrl":"http://stream.zenolive.com/uqh3g0dqhpeuv","yourmuzeId":"0","state":"1"},
@@ -50,6 +50,12 @@
 {"number":"45","name":"راديو سوا السودان","description":"","logo":"/r15.jpg","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"},
 {"number":"46","name":"إذاعة نجوم اف ام","description":"","logo":"/r14.jpg","streamUrl":"https://reach-audio.esteam.rocks/radio/8000/live.mp3","yourmuzeId":"0","state":"1"},
 {"number":"47","name":"إذاعة ولاية البحر الأحمر","description":"","logo":"/إذاعة ولاية البحر الأحمر.jpg","streamUrl":"http://87.98.130.255:8184/stream","yourmuzeId":"0","state":"1"},
+{"number":"48","name":"راديو الصنايعية","description":"","logo":"/Sudan.png","streamUrl":"http://87.98.130.255:8373/stream","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"اذاعة الدانقا","description":"","logo":"/اذاعة الدانقا.jpg","streamUrl":"http://87.98.130.255:8298/stream","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"تفسير القرآن الكريم  باللغة الفرنسية","description":"","logo":"/tafsir.jpg","streamUrl":"http://184.173.185.71:9744/stream","yourmuzeId":"0","state":"1"},
+
+  
+  
   
 {"number":"70","name":"Radio Miraya","description":"","logo":"/Radio%20Miraya.png","streamUrl":"http://s3.myradiostream.com:15918/stream","yourmuzeId":"0","state":"1"},
 {"number":"71","name":"Calvary Global Network Radio","description":"","logo":"/Calvary%20Global%20Network%20Radio.png","streamUrl":"http://uk6.listen2myradio.com:8205/stream","yourmuzeId":"0","state":"1"},  
