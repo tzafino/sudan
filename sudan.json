@@ -49,17 +49,18 @@
 {"number":"44","name":"بي بي سي العربية","description":"","logo":"/c300.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup","yourmuzeId":"0","state":"1"}, 
 {"number":"45","name":"راديو سوا السودان","description":"","logo":"/r15.jpg","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"},
 {"number":"46","name":"إذاعة نجوم اف ام","description":"","logo":"/r14.jpg","streamUrl":"https://reach-audio.esteam.rocks/radio/8000/live.mp3","yourmuzeId":"0","state":"1"},
+{"number":"47","name":"إذاعة ولاية نهر النيل من عطبرة","description":"","logo":"/إذاعة ولاية نهر النيل.png","streamUrl":"http://87.98.130.255:8184/stream","yourmuzeId":"0","state":"1"},
   
-{"number":"47","name":"Radio Miraya","description":"","logo":"/Radio%20Miraya.png","streamUrl":"http://s3.myradiostream.com:15918/stream","yourmuzeId":"0","state":"1"},
-{"number":"48","name":"Calvary Global Network Radio","description":"","logo":"/Calvary%20Global%20Network%20Radio.png","streamUrl":"http://uk6.listen2myradio.com:8205/stream","yourmuzeId":"0","state":"1"},  
-{"number":"49","name":"Eye Radio 98.6 FM","description":"","logo":"/Eye%20Radio%2098.6%20FM.png","streamUrl":"http://eyeradio.primcast.com:9588","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"Furqan Radio FM 102","description":"","logo":"/Furgan%20radio.jpg","streamUrl":"http://104.167.4.67:8080/stream","yourmuzeId":"0","state":"1"},
-{"number":"51","name":"JAMII RADIO","description":"","logo":"/JAMII%20RADIO.jpg","streamUrl":"http://listen.radionomy.com/JamiiRadio","yourmuzeId":"0","state":"1"},
-{"number":"52","name":"88.4 City FM,juba","description":"","logo":"/88.4%20City%20FM%20Juba.png","streamUrl":"http://streams.radio.co/s27dd498f6/listen","yourmuzeId":"0","state":"1"}, 
-{"number":"53","name":"RMC 101.5 FM Imprint Radio","description":"","logo":"/Imprint%20Radio.jpg","streamUrl":"http://stream.zenolive.com/acw68hd40uquv","yourmuzeId":"0","state":"1"}, 
-{"number":"54","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"},
-{"number":"55","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
-{"number":"56","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
+{"number":"70","name":"Radio Miraya","description":"","logo":"/Radio%20Miraya.png","streamUrl":"http://s3.myradiostream.com:15918/stream","yourmuzeId":"0","state":"1"},
+{"number":"71","name":"Calvary Global Network Radio","description":"","logo":"/Calvary%20Global%20Network%20Radio.png","streamUrl":"http://uk6.listen2myradio.com:8205/stream","yourmuzeId":"0","state":"1"},  
+{"number":"72","name":"Eye Radio 98.6 FM","description":"","logo":"/Eye%20Radio%2098.6%20FM.png","streamUrl":"http://eyeradio.primcast.com:9588","yourmuzeId":"0","state":"1"},
+{"number":"73","name":"Furqan Radio FM 102","description":"","logo":"/Furgan%20radio.jpg","streamUrl":"http://104.167.4.67:8080/stream","yourmuzeId":"0","state":"1"},
+{"number":"74","name":"JAMII RADIO","description":"","logo":"/JAMII%20RADIO.jpg","streamUrl":"http://listen.radionomy.com/JamiiRadio","yourmuzeId":"0","state":"1"},
+{"number":"75","name":"88.4 City FM,juba","description":"","logo":"/88.4%20City%20FM%20Juba.png","streamUrl":"http://streams.radio.co/s27dd498f6/listen","yourmuzeId":"0","state":"1"}, 
+{"number":"76","name":"RMC 101.5 FM Imprint Radio","description":"","logo":"/Imprint%20Radio.jpg","streamUrl":"http://stream.zenolive.com/acw68hd40uquv","yourmuzeId":"0","state":"1"}, 
+{"number":"77","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"},
+{"number":"78","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
+{"number":"79","name":"Yalla Karthoum","description":"","logo":"/yalla%20khartoum.jpg","streamUrl":"http://streamingv2.shoutcast.com/sudanradio","yourmuzeId":"0","state":"0"}, 
 
   
 
