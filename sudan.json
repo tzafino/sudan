@@ -54,11 +54,11 @@
 {"number":"48","name":"راديو الصنايعية","description":"","logo":"/Sudan.png","streamUrl":"http://87.98.130.255:8373/stream","yourmuzeId":"0","state":"1"},
 {"number":"49","name":"اذاعة الدانقا","description":"","logo":"/اذاعة الدانقا.jpg","streamUrl":"http://87.98.130.255:8298/stream","yourmuzeId":"0","state":"1"},
 {"number":"50","name":"تفسير القرآن الكريم  باللغة الفرنسية","description":"","logo":"/tafsir.jpg","streamUrl":"http://184.173.185.71:9744/stream","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"راديو التبر","description":"","logo":"/tibr.jpg","streamUrl":"http://87.98.130.255:8665/stream","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"راديو الوطنية","description":"","logo":"/watanya.jpeg","streamUrl":"http://87.98.130.255:8682/stream","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"غاية المريد في علم التجويد","description":"","logo":"/tajwid.jpg","streamUrl":"http://server2.quraan.us:9314/stream","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"إذاعة القارئ الفاتح محمد الزبير","description":"","logo":"/Al-Fatih.jpg","streamUrl":"http://server2.quraan.us:9832/;*.mp3","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"تفسير القرآن الكريم  باللغة الفرنسية","description":"","logo":"/tafsir.jpg","streamUrl":"http://184.173.185.71:9744/stream","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"راديو التبر","description":"","logo":"/tibr.jpg","streamUrl":"http://87.98.130.255:8665/stream","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"راديو الوطنية","description":"","logo":"/watanya.jpeg","streamUrl":"http://87.98.130.255:8682/stream","yourmuzeId":"0","state":"1"},
+{"number":"53","name":"غاية المريد في علم التجويد","description":"","logo":"/tajwid.jpg","streamUrl":"http://server2.quraan.us:9314/stream","yourmuzeId":"0","state":"1"},
+{"number":"54","name":"إذاعة القارئ الفاتح محمد الزبير","description":"","logo":"/Al-Fatih.jpg","streamUrl":"http://server2.quraan.us:9832/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"55","name":"الاذاعة الطبية","description":"","logo":"/tibia.jpg","streamUrl":"http://178.32.62.163:9729/stream","yourmuzeId":"0","state":"1"},
 
   
   
@@ -76,16 +76,17 @@
 
   
 
-{"number":"339","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
+
+{"number":"399","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc arabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
 {"number":"400","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
 {"number":"401","name":"Radio Monte Carlo Doualiya","description":"","logo":"/monte carlo dawlia.jpg","streamUrl":"https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
 {"number":"402","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/skynewsarabic.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
 {"number":"403","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
 {"number":"404","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
+   
 
   
-  
-  
+
 
 {"number":"405","name":"إذاعة الشيخ عبد العزيز الأحمد","description":"","logo":"/الشيخ عبد العزيز الأحمد.jpg","streamUrl":"http://quraan.us:9914/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"406","name":"إذاعة القارئ الشيخ عبدالهادي أحمد كناكري","description":"","logo":"/القارئ الشيخ عبدالهادي أحمد كناكري.jpg","streamUrl":"http://live.mp3quran.net:9850/;","yourmuzeId":"0","state":"1"},
@@ -167,8 +168,8 @@
 {"number":"541","name":"تلاوات خاشعة 1","description":"","logo":"/401.png","streamUrl":"http://islam2day.tv:3000/","yourmuzeId":"0","state":"1"}, 	
 {"number":"551","name":"تلاوات خاشعة 2","description":"","logo":"/402.png","streamUrl":"http://live.mp3quran.net:9992/","yourmuzeId":"0","state":"1"}, 	
 {"number":"561","name":"اناشيد دينية","description":"","logo":"/403.png","streamUrl":"http://islam2day.tv:8000/","yourmuzeId":"0","state":"1"}, 	
-{"number":"571","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"/3afasi.jpg","streamUrl":"http://live.mp3quran.net:9982/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},
-{"number":"581","name":"الشيخ محمود خليل الحصري","description":"","logo":"/elhasri.jpg","streamUrl":"http://live.mp3quran.net:9804/;","yourmuzeId":"0","state":"1"},
+{"number":"571","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"/3afasi.jpg","streamUrl":"http://server2.quraan.us:9922/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"581","name":"الشيخ محمود خليل الحصري","description":"","logo":"/elhasri.jpg","streamUrl":"http://quraan.us:9920/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"591","name":"الشيخ محمود علي البنا","description":"","logo":"/elbanna.jpg","streamUrl":"http://server2.quraan.us:9788/","yourmuzeId":"0","state":"1"},
 {"number":"601","name":"اسلام صبحي","description":"","logo":"/sobhi.jpg","streamUrl":"https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3","yourmuzeId":"0","state":"1"},
 {"number":"611","name":"ادعية واذكار","description":"","logo":"/doaa.jpg","streamUrl":"http://radio10.tarat.com:9358/","yourmuzeId":"0","state":"1"}, 	
@@ -186,11 +187,11 @@
 {"number":"734","name":"إذاعة فتاوى الشيخ ابن عثيمين","description":"","logo":"/الشيخ ابن عثيمين.jpg","streamUrl":"http://server2.quraan.us:9890/;*.mp3","yourmuzeId":"0","state":"1"}, 
 
  
-{"number":"791","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
-{"number":"801","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://live.mp3quran.net:9988/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
+{"number":"791","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://server2.quraan.us:9852/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"801","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://quraan.us:9850/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"811","name":"إذاعة الشيخ سعود الشريم","description":"","logo":"/sa3od cherim.jpg","streamUrl":"http://quraan.us:9848/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"821","name":" إذاعة الرقية الشرعية 1","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"831","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://live.mp3quran.net:9972/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},  
+{"number":"831","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://server2.quraan.us:9904/;*.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"841","name":"إذاعة الشيخ وديع اليمني","description":"","logo":"/cheikh wadi3 yamani.jpg","streamUrl":"http://server2.quraan.us:9784/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"851","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"861","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/cheikh al 3osi.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 
@@ -206,11 +207,8 @@
  
 {"number":"941","name":"إذاعة الشيخ عبدالله بصفر","description":"","logo":"/Abdullah Ibn Ali Basfar.jpg","streamUrl":"http://quraan.us:9846/;*.mp3","yourmuzeId":"0","state":"1"} 
 
-    
-
-
-
-
+     
+  
 
 
 
