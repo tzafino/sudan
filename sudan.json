@@ -4,7 +4,7 @@
   
 {"number":"1","name":"راديو بلدنا","description":"","logo":"/baladna%20radio.png","streamUrl":"http://stream.zenolive.com/mzb0syy61ueuv","yourmuzeId":"0","state":"1"}, 
   
-{"number":"2","name":"الرياضية FM 104","description":"","logo":"/SportFM104.png","streamUrl":"http://87.98.130.255:8397","yourmuzeId":"0","state":"1"},    
+{"number":"2","name":"الرياضية FM 104","description":"","logo":"/SportFM104.png","streamUrl":"http://87.98.130.255:8397/stream","yourmuzeId":"0","state":"1"},    
 {"number":"3","name":"اذاعة البصيرة","description":"","logo":"r01.png","streamUrl":"http://radio12.tarat.com:9320/;stream/1","yourmuzeId":"0","state":"0"},    
 {"number":"4","name":"اذاعة الشباب والرياضة","description":"","logo":"/اذاعة الشباب والرياضة.JPG","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"1"},   
 {"number":"5","name":"اذاعة كسلا","description":"","logo":"/اذاعة كسلا.jpg","streamUrl":"http://87.98.130.255:8489/stream","yourmuzeId":"0","state":"1"},  
