@@ -66,7 +66,7 @@
 {"number":"70","name":"Radio Miraya","description":"","logo":"/Radio%20Miraya.png","streamUrl":"http://s3.myradiostream.com:15918/stream","yourmuzeId":"0","state":"1"},
 {"number":"71","name":"Calvary Global Network Radio","description":"","logo":"/Calvary%20Global%20Network%20Radio.png","streamUrl":"http://uk6.listen2myradio.com:8205/stream","yourmuzeId":"0","state":"1"},  
 {"number":"72","name":"Eye Radio 98.6 FM","description":"","logo":"/Eye%20Radio%2098.6%20FM.png","streamUrl":"http://eyeradio.primcast.com:9588","yourmuzeId":"0","state":"1"},
-{"number":"73","name":"Furqan Radio FM 102","description":"","logo":"/Furgan%20radio.jpg","streamUrl":"http://104.167.4.67:8080/stream","yourmuzeId":"0","state":"2"},
+{"number":"73","name":"Furqan Radio FM 102","description":"","logo":"/Furgan%20radio.jpg","streamUrl":"http://104.167.4.67:8080/stream","yourmuzeId":"0","state":"0"},
 {"number":"74","name":"JAMII RADIO","description":"","logo":"/JAMII%20RADIO.jpg","streamUrl":"http://listen.radionomy.com/JamiiRadio","yourmuzeId":"0","state":"1"},
 {"number":"75","name":"88.4 City FM,juba","description":"","logo":"/88.4%20City%20FM%20Juba.png","streamUrl":"http://streams.radio.co/s27dd498f6/listen","yourmuzeId":"0","state":"1"}, 
 {"number":"76","name":"RMC 101.5 FM Imprint Radio","description":"","logo":"/Imprint%20Radio.jpg","streamUrl":"http://stream.zenolive.com/acw68hd40uquv","yourmuzeId":"0","state":"1"}, 
